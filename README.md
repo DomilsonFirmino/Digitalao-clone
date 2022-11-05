@@ -3,20 +3,15 @@
 This layout belong to a set of solutions, to a challenge that consist in rebuilding pages of the most famous or known sites of the country of angola.
 Those are meant only as a praticy and not for profit gain.
 
-
 ### Screenshot
 
 ![](./Images/screenshot_olg.jpg)
 ![](./Image/screenshot_new.jpg)
 
-
-
 ### Links
 
-- Original Site URL: [Add solution URL here](https://your-solution-url.com)
-- Remaking URL: [Add live site URL here](https://your-live-site-url.com)
-
-
+- Original Site URL: [Digital](https://digital.ao/ao/)
+- Remaking URL: [Digital.ao clone](https://domilsonfirmino.github.io/Digitalao-clone/)
 
 ### Built with
 
@@ -24,4 +19,3 @@ Those are meant only as a praticy and not for profit gain.
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
