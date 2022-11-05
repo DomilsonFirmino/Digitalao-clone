@@ -93,7 +93,7 @@ nav{
 
 .hero__img{
     width: 100%;
-    height: min(50vh, 100vh);
+    height:  calc(60vh + 5em);
     object-fit: cover;
     display: block;
 }
@@ -105,7 +105,7 @@ nav{
 }
 .content h2{
     color: black;
-    font-size: calc(.4vw + 1.585rem);
+    font-size: clamp(1em , 1.2vw + 1.585rem, 3em);
     width: 80%;
     max-width: 16ch;
     font-weight: bold;
@@ -113,7 +113,7 @@ nav{
     text-transform: uppercase;
 }
 .content button{
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: 700;
 
     padding: .6em 1.5em;
